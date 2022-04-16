@@ -1,3 +1,5 @@
+https://www.geektrust.com/share/badges/1197873092
+----------------------------------------------------
 # geektrustchallenge
 The solution of code challenge provided by geektrust.
 -----------------------------------------------------
